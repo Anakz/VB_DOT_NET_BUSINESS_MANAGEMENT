@@ -1,0 +1,10 @@
+D:\etude\visual basic\Projet final\Projet final\bin\Debug\Projet final.exe
+D:\etude\visual basic\Projet final\Projet final\bin\Debug\Projet final.pdb
+D:\etude\visual basic\Projet final\Projet final\bin\Debug\Projet final.xml
+D:\etude\visual basic\Projet final\Projet final\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\etude\visual basic\Projet final\Projet final\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\etude\visual basic\Projet final\Projet final\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\etude\visual basic\Projet final\Projet final\obj\x86\Debug\Projet final.vbproj.GenerateResource.Cache
+D:\etude\visual basic\Projet final\Projet final\obj\x86\Debug\Projet final.exe
+D:\etude\visual basic\Projet final\Projet final\obj\x86\Debug\Projet final.xml
+D:\etude\visual basic\Projet final\Projet final\obj\x86\Debug\Projet final.pdb
